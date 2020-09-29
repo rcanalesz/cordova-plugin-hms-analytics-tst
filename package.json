@@ -1,0 +1,35 @@
+{
+    "name": "@hmscore/cordova-plugin-hms-analytics",
+    "version": "5.0.1-300",
+    "description": "Huawei Analytics Cordova Plugin",
+    "types": "types/index.d.ts",
+    "cordova": {
+        "id": "cordova-plugin-hms-analytics",
+        "platforms": []
+    },
+    "keywords": [
+        "cordova",
+        "huaweianalytics",
+        "hianalytics",
+        "ecosystem:cordova"
+    ],
+    "license": "Apache-2.0",
+    "files": [
+        "hooks",
+        "resources",
+        "src",
+        "www",
+        "LICENCE",
+        "package.json",
+        "plugin.xml",
+        "README.md",
+        "scripts",
+        "ionic",
+        "types",
+        "tsconfig.json"
+    ],
+    "devDependencies": {
+        "@types/cordova": "0.0.34"
+    }
+
+}
